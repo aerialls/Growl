@@ -1,0 +1,15 @@
+{
+    "name": "madalynn/growl",
+    "type": "library",
+    "description": "A simple Growl notifier for PHP5.3",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Julien Brochet",
+            "email": "mewt@madalynn.eu"
+        }
+    ],
+    "autoload": {
+        "psr-0": { "Madalynn\\Growl": "src/" }
+    }
+}
