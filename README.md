@@ -1,4 +1,4 @@
-Growl notifier
+Growl notifier [![Build Status](https://secure.travis-ci.org/aerialls/Growl.png?branch=master)](http://travis-ci.org/aerialls/Growl)
 ==============
 
 This library is a _simple_ Growl notifier for PHP5.3
