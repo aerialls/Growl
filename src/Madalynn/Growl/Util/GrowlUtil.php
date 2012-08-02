@@ -22,6 +22,6 @@ class GrowlUtil
      */
     public function displayBoolean($boolean)
     {
-        return true === $boolean ? 'true' : 'false';
+        return $boolean ? 'true' : 'false';
     }
 }
